@@ -1,2 +1,9 @@
-# summary-shift-report-creator
-Creation summary shift report, sent by shift engeneers
+# summary-shift-report-generator
+
+## Overview
+
+Generation summary shift report. All source reports are placed in "src" folder.
+
+## Used tools
+
+vbscript
